@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "BnkA1LSJ#dzyslhenWM_TVP5b3wq2e4ICP0JhcKwiOPpPcG5jxVo"
     },  
     
     "STICKER_NAME": {
@@ -86,13 +86,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "prince tech"
+      "value": "Nicolaus Daniel ❤️"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255623672733"
+      "value": "255652398614"
 
     }, 
 
